@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 93,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 93,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 78,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 78,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 85,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 85,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 105,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 105,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 180,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 180,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 142,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 142,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 121,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 121,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 80,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 80,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 108,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 108,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endColumn": 105,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 105,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endColumn": 114,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1212,
+                        "endColumn": 114,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 86,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endColumn": 86,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 216,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 216,
+                        "endOffset": 1626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 226,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1631,
+                        "endColumn": 226,
+                        "endOffset": 1853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1858,
+                    "endColumn": 101,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1858,
+                        "endColumn": 101,
+                        "endOffset": 1955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endColumn": 107,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1960,
+                        "endColumn": 107,
+                        "endOffset": 2063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endColumn": 100,
+                    "endOffset": 2164
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2068,
+                        "endColumn": 100,
+                        "endOffset": 2164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2169,
+                    "endColumn": 133,
+                    "endOffset": 2298
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2169,
+                        "endColumn": 133,
+                        "endOffset": 2298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2303,
+                    "endColumn": 163,
+                    "endOffset": 2462
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2303,
+                        "endColumn": 163,
+                        "endOffset": 2462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2467,
+                    "endColumn": 102,
+                    "endOffset": 2565
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2467,
+                        "endColumn": 102,
+                        "endOffset": 2565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2570,
+                    "endColumn": 74,
+                    "endOffset": 2640
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2570,
+                        "endColumn": 74,
+                        "endOffset": 2640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2645,
+                    "endColumn": 85,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2645,
+                        "endColumn": 85,
+                        "endOffset": 2726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 99,
+                    "endOffset": 2826
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2731,
+                        "endColumn": 99,
+                        "endOffset": 2826
+                    }
+                }
+            }
+        ]
+    }
+]

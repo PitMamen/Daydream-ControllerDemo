@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"Volver"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Cancelar"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"DE ACORDO"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"ABRIR CENTRO DE AXUDA"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Necesitas un teléfono compatible con Daydream. Para máis información, visita o Centro de axuda de Daydream."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Instala a aplicación Cardboard para configurar o teu visor."</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"Configura o teu visor para ter a mellor experiencia posible."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Configurar"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"O teléfono non é compatible"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Configuración obrigatoria"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Instalación obrigatoria"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Aviso"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"É posible que esta aplicación non funcione correctamente se non activas o compoñente Servizos de RV de Google. Antes de continuar actívao na configuración do teléfono."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"É posible que esta aplicación non funcione correctamente sen o compoñente Servizos de RV de Google. Antes de continuar instálao desde Play Store."</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Ir a Play Store"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Ir á configuración"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Non hai ningún navegador para abrir o sitio web"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Coloca o teléfono no teu visor de Cardboard"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Coloca o teléfono no visor <ns1:g id="VIEWER_NAME">%s</ns1:g>"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"Configuración"</string>
+    <string msgid="20964482303479393" name="setup_button">"Configurar"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Cambiar"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Queres usar un visor distinto?"</string>
+</resources>

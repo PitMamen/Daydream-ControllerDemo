@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\quantum_ic_close_white_24.png",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\transition.png",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    }
+]

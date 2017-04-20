@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android.iml" filepath="$PROJECT_DIR$/Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gvr/gvr.iml" filepath="$PROJECT_DIR$/gvr/gvr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gvrpermissionsupportrelease/gvrpermissionsupportrelease.iml" filepath="$PROJECT_DIR$/gvrpermissionsupportrelease/gvrpermissionsupportrelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_DaydreamController/my_DaydreamController.iml" filepath="$PROJECT_DIR$/my_DaydreamController/my_DaydreamController.iml" />
+    </modules>
+  </component>
+</project>

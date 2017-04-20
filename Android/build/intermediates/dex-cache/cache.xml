@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="880c5a235f2523775145ecf14ff87c6bb7e7c095">
+        <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_02fef9826fd0b5dd0932be3c7d074e8484cc32cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a2c5f1087311123d2dbca942f7e1598d806b21">
+        <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_13d73fb924e0b4d60a4b294715fca7567f1af7be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\exploded-aar\Android\gvrpermissionsupportrelease\unspecified\jars\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15265a118cba1eb439baa307cc684d9ed018706d">
+        <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\8\gvrpermissionsupportrelease-unspecified-jars_a7c54751164966fd88a593a9295e3e4296d93616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android\my_DaydreamController\libs\libprotobuf-java-nano.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\2\libprotobuf-java-nano_8bfaaa40458cc735a6814d905134599ed647d988\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android\my_DaydreamController\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f811c2b0f415e6a8f7aa48ffb8ef8fbe18aaede8">
+        <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_53edbdab77702e396e800f3e46bb1e95b4b30fa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\exploded-aar\Android\gvr\unspecified\jars\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ace89c5e211f5ec90963a36713cb1231da3a7c68">
+        <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\8\gvr-unspecified-jars_63a14521eca534860fb9c82239631088cb8488d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\unity3d_5.6_workspace\Android\my_DaydreamController\libs\gvr_audio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23fafd64a2733554059bce0d81cca8239031f16">
+        <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\2\gvr_audio_c9d61b661a0a9f5fc02153f0a69c4fcdfbc09282\classes.dex" />
+    </item>
+
+</items>

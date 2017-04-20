@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"orqaga"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Bekor qilish"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"OK"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"YORDAM MARKAZI SAHIFASINI OCHISH"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Bu telefon Daydream texnologiyasini qo‘llab-quvvatlamaydi. Bu haqda batafsil ma’lumot olish uchun Daydream ma’lumotlar markazi sahifasiga tashrif buyuring."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Garniturani sozlash uchun Cardboard ilovasini yuklab oling."</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"Cardboard garniturasidan samarali foydalanish uchun uni sozlang."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Sozlash"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Telefon mos emas"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Ilovani sozlang"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Ilovani o‘rnating"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Diqqat!"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Bu ilova to‘g‘ri ishlashi uchun Google VR xizmatlarini yoqish lozim. Davom ettirishdan avval Google VR xizmatlarini telefon Sozlamalaridan yoqing."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Bu ilova to‘g‘ri ishlashi uchun Google VR xizmatlarini o‘rnatish lozim. Davom ettirishdan avval Google VR xizmatlari ilovasini Google Play Marketdan yuklab oling."</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Google Play Marketga o‘tish"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Sozlamalarga o‘tish"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Brauzer yo‘q. Veb-saytni ochib bo‘lmadi."</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Telefonni Cardboard garniturasi ichiga joylang"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Telefonni <ns1:g id="VIEWER_NAME">%s</ns1:g> garniturasi ichiga joylang"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"sozlamalar"</string>
+    <string msgid="20964482303479393" name="setup_button">"Sozlash"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Tanlash"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Sizda boshqa VR garniturasimi?"</string>
+</resources>

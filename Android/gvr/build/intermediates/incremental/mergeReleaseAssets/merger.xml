@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\unity3d_5.6_workspace\Android\gvr\src\main\assets"/><source path="D:\unity3d_5.6_workspace\Android\gvr\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\unity3d_5.6_workspace\Android\gvr\src\release\assets"/></dataSet></merger>

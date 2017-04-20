@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"буцах"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Цуцлах"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"ОЙЛГОЛОО"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"ТУСЛАМЖИЙН ТӨВИЙГ НЭЭХ"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Daydream-д ашиглах боломжтой утас шаардлагатай. Дэлгэрэнгүй мэдээллийг тусламжийн төвөөс авна уу."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Үзүүлэгчийг тохируулахын тулд Cardboard aпп суулгана уу."</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"Үзүүлэгчийг өөртөө хамгийн сайн тохируулаарай."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Тохируулах"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Нийцэхгүй утас"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Суулгах шаардлагатай"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Суулгах шаардлагатай"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Анхааруулга"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Энэ апликешн Google VR үйлчилгээгүйгээр зөв ажиллахгүй байж магадгүй, үргэлжлүүлэхийн өмнө үүнийг утасны Тохиргоо дотор идэвхжүүлнэ үү."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Энэ апликешн Google VR үйлчилгээгүйгээр зөв ажиллахгүй байж магадгүй. Үргэлжлүүлэхийн өмнө Google VR үйлчилгээг Play Store дээрээс авч суулгана уу."</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Play Store руу очих"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Тохиргоо руу очих"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Вэбсайтыг нээх хөтөч байхгүй"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Утсаа Cardboard үзүүлэгч дотор байрлуулна уу"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Утсаа <ns1:g id="VIEWER_NAME">%s</ns1:g> үзүүлэгч дотор байрлуулна уу"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"тохиргоо"</string>
+    <string msgid="20964482303479393" name="setup_button">"Тохируулга"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Сэлгэх"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Өөр үзүүлэгч ашиглаж байна уу?"</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"kembali"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Batal"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"OK"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"BUKA PUSAT BANTUAN"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Telefon serasi Daydream diperlukan. Lawati Pusat Bantuan Daydream untuk mendapatkan maklumat lanjut."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Dapatkan apl Cardboard untuk mengkonfigurasikan alat lihat anda."</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"Sediakan alat lihat anda untuk mendapatkan pengalaman yang terbaik."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Konfigurasikan"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Telefon tidak serasi"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Persediaan diperlukan"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Pemasangan diperlukan"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Amaran"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Aplikasi ini mungkin tidak berfungsi dengan betul sekiranya Perkhidmatan VR Google tidak didayakan, sila dayakan ciri ini dalam Tetapan telefon sebelum meneruskan."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Aplikasi ini mungkin tidak berfungsi dengan betul tanpa Perkhidmatan VR Google. Sila pasang Perkhidmatan VR Google daripada Gedung Play sebelum meneruskan."</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Pergi ke Gedung Play"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Pergi ke Tetapan"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Tiada penyemak imbas untuk membuka tapak web"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Letak telefon anda ke dalam alat lihat Cardboard"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Letakkan telefon anda ke dalam alat lihat <ns1:g id="VIEWER_NAME">%s</ns1:g>"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"tetapan"</string>
+    <string msgid="20964482303479393" name="setup_button">"Persediaan"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Tukar"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Menggunakan alat lihat lain?"</string>
+</resources>

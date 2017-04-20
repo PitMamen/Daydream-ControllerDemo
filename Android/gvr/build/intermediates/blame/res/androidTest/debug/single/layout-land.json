@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\settings_button.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\back_button.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\ui_layer_with_portrait_support.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    }
+]

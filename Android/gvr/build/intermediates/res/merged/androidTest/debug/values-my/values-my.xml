@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"နောက်သို့"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"မလုပ်တော့"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"ရပါပြီ"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"အကူအညီစင်တာကို ဖွင့်ကြည့်ရန်"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Daydream အသင့်သုံးဖုန်းတစ်လုံး လိုအပ်ပါသည်။ ပိုမိုသိရှိရန် Daydream အကူအညီစင်တာသို့ ဝင်ရောက်ကြည့်ရှုပါ။"</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"သင်၏ကြည့်ရန်ကိရိယာကို စီစဉ်သတ်မှတ်ရန် Cardboard အက်ပ်ကို ရယူပါ။"</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"အကောင်းဆုံးအတွေ့အကြုံအတွက် သင်၏ကြည့်ရန်ကိရိယာကို စီစဉ်သတ်မှတ်ပါ။"</string>
+    <string msgid="7887077605817014784" name="dialog_title">"စီစဉ်သတ်မှတ်ပါ"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"သဟဇာတမဖြစ်သောဖုန်း"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"စီစဉ်သတ်မှတ်ရန် လိုအပ်ပါသည်"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"ထည့်သွင်းရန် လိုအပ်ပါသည်"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"သတိပေးချက်"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"ဤအက်ပ်က Google VR ဝန်ဆောင်မှုများကို မဖွင့်ဘဲ မှန်ကန်စွာလုပ်ဆောင်နိုင်မည်မဟုတ်ပါ၊ ဆက်မလုပ်ခင် ဤသည်ကို ဖုန်းဆက်တင်များထဲတွင် ဖွင့်ပါ။"</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"ဤအက်ပ်က Google VR ဝန်ဆောင်မှုများမပါဘဲ မှန်ကန်စွာလုပ်ဆောင်နိုင်မည်မဟုတ်ပါ။ ဆက်မလုပ်ခင် Play Store မှ Google VR ဝန်ဆောင်မှုများကို ထည့်သွင်းပါ။"</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Play Store သို့ သွားရန်"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"ဆက်တင်များသို့ သွားရန်"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"ဝဘ်ဆိုက်ဖွင့်ရန် ဘရောင်ဇာမရှိပါ"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Cardboard ကြည့်ရန်ကိရိယာထဲတွင် သင့်ဖုန်းကို တပ်ပါ"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"<ns1:g id="VIEWER_NAME">%s</ns1:g> ကြည့်ရန်ကိရိယာထဲတွင် သင့်ဖုန်းကို တပ်ပါ"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"ဆက်တင်များ"</string>
+    <string msgid="20964482303479393" name="setup_button">"စီစဉ်သတ်မှတ်ရန်"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"ပြောင်းရန်"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"အခြားကြည့်ရန်ကိရိယာသုံးနေလား။"</string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\back_button.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\layout-ldrtl-land-v17\\back_button.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\settings_button.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+    }
+]

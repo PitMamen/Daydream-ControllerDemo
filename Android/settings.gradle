@@ -1,0 +1,3 @@
+include ':gvr'
+include ':gvrpermissionsupportrelease'
+include ':my_DaydreamController'

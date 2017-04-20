@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libprotobuf-java-nano">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my_DaydreamController/libs/libprotobuf-java-nano.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

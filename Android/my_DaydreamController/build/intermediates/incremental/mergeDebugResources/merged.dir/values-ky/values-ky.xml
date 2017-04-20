@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"артка"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Жокко чыгаруу"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"ТҮШҮНДҮМ"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"ЖАРДАМ БОРБОРУН АЧУУ"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Daydream\'ге шайкеш келген телефон талап кылынат. Кеңири маалымат үчүн, жардам борборуна кайрылыңыз."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Көрүү каражатын конфигурациялоо үчүн Cardboard колдонмосун алыңыз."</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"Мыкты мүмкүнчүлүктөрдү колдонуу үчүн көрүү каражатын жөндөңүз."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Конфигурациялоо"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Телефон шайкеш келбейт"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Жөндөө талап кылынат"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Орнотуу талап кылынат"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Эскертүү"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Бул колдонмо Google VR кызматтарын күйгүзбөсө туура иштебей калышы мүмкүн. Улантуудан мурда телефондун жөндөөлөрүнөн Google VR кызматтарын күйгүзүңүз."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Бул колдонмо Google VR кызматтарысыз туура иштебей калышы мүмкүн. Улантуудан мурда Play Дүкөндөн Google VR кызматтарын орнотуп алыңыз."</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Play Дүкөнгө өтүңүз"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Жөндөөлөргө өтүү"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Вебсайтты ача турган бир да серепчи табылган жок"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Телефонуңузду Cardboard көрүү каражатына туташтрңз"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Телефонуңузду <ns1:g id="VIEWER_NAME">%s</ns1:g> көрүү каражатына туташтырыңыз"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"жөндөөлөр"</string>
+    <string msgid="20964482303479393" name="setup_button">"Жөндөө"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Которуштур"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Башка көрүү каражатын колдонуп жатасызбы?"</string>
+</resources>

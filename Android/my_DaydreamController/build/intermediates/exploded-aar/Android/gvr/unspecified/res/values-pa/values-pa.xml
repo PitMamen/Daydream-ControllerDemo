@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"ਪਿੱਛੇ"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"ਰੱਦ ਕਰੋ"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"ਸਮਝ ਗਿਆ"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"ਮਦਦ ਕੇਂਦਰ ਖੋਲ੍ਹੋ"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"ਇੱਕ Daydream-ਸਮਰਥਿਤ ਫ਼ੋਨ ਲੋੜੀਂਦਾ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ Daydream ਮਦਦ ਕੇਂਦਰ \'ਤੇ ਜਾਓ।"</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"ਆਪਣੇ ਵਿਊਅਰ ਦਾ ਸੰਰੂਪਣ ਕਰਨ ਲਈ Cardboard ਐਪ ਪ੍ਰਾਪਤ ਕਰੋ।"</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"ਸਰਵੋਤਮ ਅਨੁਭਵ ਲਈ ਆਪਣਾ ਵਿਊਅਰ ਸਥਾਪਤ ਕਰੋ।"</string>
+    <string msgid="7887077605817014784" name="dialog_title">"ਸੰਰੂਪਣ ਕਰੋ"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"ਗੈਰ-ਅਨੁਰੂਪ ਫ਼ੋਨ"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"ਸਥਾਪਨਾ ਲੋੜੀਂਦੀ ਹੈ"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"ਸਥਾਪਤ ਕਰਨਾ ਲੋੜੀਂਦਾ ਹੈ"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"ਚੇਤਾਵਨੀ"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"ਹੋ ਸਕਦਾ ਹੈ ਕਿ Google VR ਸੇਵਾਵਾਂ ਯੋਗ ਬਣਾਏ ਜਾਣ ਬਿਨਾਂ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੰਮ ਨਾ ਕਰੇ। ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਕਿਰਪਾ ਕਰਕੇ ਫ਼ੋਨ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਸ ਨੂੰ ਯੋਗ ਬਣਾਓ।"</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"ਹੋ ਸਕਦਾ ਹੈ ਕਿ Google VR ਸੇਵਾਵਾਂ ਦੇ ਬਿਨਾਂ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੰਮ ਨਾ ਕਰੇ। ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਕਿਰਪਾ ਕਰਕੇ Play ਸਟੋਰ ਤੋਂ Google VR ਸੇਵਾਵਾਂ ਸਥਾਪਤ ਕਰੋ।"</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Play ਸਟੋਰ \'ਤੇ ਜਾਓ"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"ਸੈਟਿੰਗਾਂ \'ਤੇ ਜਾਓ"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"ਵੈੱਬਸਾਈਟ ਖੋਲ੍ਹਣ ਲਈ ਕੋਈ ਬ੍ਰਾਊਜ਼ਰ ਨਹੀਂ ਹੈ"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਆਪਣੇ Cardboard ਵਿਊਅਰ ਵਿੱਚ ਰੱਖੋ"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਆਪਣੇ <ns1:g id="VIEWER_NAME">%s</ns1:g> ਵਿਊਅਰ ਵਿੱਚ ਰੱਖੋ"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"ਸੈਟਿੰਗਾਂ"</string>
+    <string msgid="20964482303479393" name="setup_button">"ਸਥਾਪਤ ਕਰੋ"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"ਬਦਲੀ ਕਰੋ"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"ਕੀ ਤੁਸੀਂ ਅੱਡ ਵਿਊਅਰ ਵਰਤ ਰਹੇ ਹੋ?"</string>
+</resources>

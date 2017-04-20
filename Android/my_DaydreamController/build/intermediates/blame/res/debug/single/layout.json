@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout\\transition_view.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout\\back_button.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layer_with_portrait_support.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout\\settings_button.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvrpermissionsupportrelease\\unspecified\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layer.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\exploded-aar\\Android\\gvr\\unspecified\\res\\layout\\ui_layer.xml"
+    }
+]

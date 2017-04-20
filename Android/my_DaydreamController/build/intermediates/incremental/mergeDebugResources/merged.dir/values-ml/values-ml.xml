@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="233061162317617848" name="back_button_content_description">"പിന്നോട്ട്"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"റദ്ദാക്കുക"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"മനസ്സിലായി"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"സഹായ കേന്ദ്രം തുറക്കുക"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Daydream അനുയോജ്യതയുള്ള ഫോൺ ആവശ്യമാണ്. കൂടുതൽ വിവരങ്ങൾക്ക് Daydream സഹായ കേന്ദ്രം സന്ദർശിക്കുക."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"നിങ്ങളുടെ വ്യൂവർ കോൺഫിഗർ ചെയ്യുന്നതിന് കാർഡ്ബോർഡ് ആപ്പ് സ്വന്തമാക്കുക."</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"മികച്ച അനുഭവം ലഭിക്കാൻ നിങ്ങളുടെ വ്യൂവർ സജ്ജമാക്കുക."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"ക്രമീകരിക്കുക"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"അനുയോജ്യമല്ലാത്ത ഫോൺ"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"സജ്ജമാക്കല്‍‌ ആവശ്യമാണ്"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതുണ്ട്"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"മുന്നറിയിപ്പ്"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Google VR സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കാതെ ഈ അപ്ലിക്കേഷൻ ശരിയായി പ്രവർത്തിച്ചേക്കില്ല, തുടരുന്നതിന് ഫോൺ ക്രമീകരണത്തിൽ ഇത് പ്രവർത്തനക്ഷമമാക്കുക."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Google VR സേവനങ്ങൾ ഇല്ലാതെ ഈ അപ്ലിക്കേഷൻ ശരിയായി പ്രവർത്തിച്ചേക്കില്ല. തുടരുന്നതിന് Play സ്റ്റോറിൽ നിന്നും Google VR സേവനങ്ങൾ ഇൻസ്റ്റാളുചെയ്യുക."</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Play സ്‌റ്റോറിലേക്ക് പോകുക"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"ക്രമീകരണത്തിലേക്ക് പോകുക"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"വെബ്‌സൈറ്റ് തുറക്കുന്നതിന് ബ്രൗസറൊന്നുമില്ല"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"നിങ്ങളുടെ കാർഡ്ബോർഡ് വ്യൂവറിലേക്ക് നിങ്ങളുടെ ഫോൺ വയ്ക്കുക"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"നിങ്ങളുടെ <ns1:g id="VIEWER_NAME">%s</ns1:g> വ്യൂവറിലേക്ക് നിങ്ങളുടെ ഫോൺ വയ്ക്കുക"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"ക്രമീകരണം"</string>
+    <string msgid="20964482303479393" name="setup_button">"സജ്ജമാക്കല്‍‌"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"സ്വിച്ച്"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"മറ്റൊരു വ്യൂവർ ഉപയോഗിക്കുന്നുണ്ടോ?"</string>
+</resources>

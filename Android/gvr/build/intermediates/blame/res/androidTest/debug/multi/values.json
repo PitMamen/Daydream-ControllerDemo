@@ -1,0 +1,688 @@
+[
+    {
+        "outputFile": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 56,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 56,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 53,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 53,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 54,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 54,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 57,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 57,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 61,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 61,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endLine": 9,
+                    "endColumn": 11,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endLine": 9,
+                        "endColumn": 11,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endLine": 12,
+                    "endColumn": 13,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endLine": 12,
+                        "endColumn": 13,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endLine": 15,
+                    "endColumn": 11,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endLine": 15,
+                        "endColumn": 11,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endLine": 18,
+                    "endColumn": 11,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endLine": 18,
+                        "endColumn": 11,
+                        "endOffset": 1407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endLine": 21,
+                    "endColumn": 11,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1412,
+                        "endLine": 21,
+                        "endColumn": 11,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endLine": 24,
+                    "endColumn": 13,
+                    "endOffset": 2090
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 24,
+                        "endColumn": 13,
+                        "endOffset": 2090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2095,
+                    "endLine": 27,
+                    "endColumn": 13,
+                    "endOffset": 2327
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2095,
+                        "endLine": 27,
+                        "endColumn": 13,
+                        "endOffset": 2327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2332,
+                    "endLine": 30,
+                    "endColumn": 13,
+                    "endOffset": 2530
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2332,
+                        "endLine": 30,
+                        "endColumn": 13,
+                        "endOffset": 2530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2535,
+                    "endLine": 33,
+                    "endColumn": 11,
+                    "endOffset": 2731
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2535,
+                        "endLine": 33,
+                        "endColumn": 11,
+                        "endOffset": 2731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2736,
+                    "endLine": 36,
+                    "endColumn": 11,
+                    "endOffset": 2945
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2736,
+                        "endLine": 36,
+                        "endColumn": 11,
+                        "endOffset": 2945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2950,
+                    "endLine": 39,
+                    "endColumn": 11,
+                    "endOffset": 3159
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2950,
+                        "endLine": 39,
+                        "endColumn": 11,
+                        "endOffset": 3159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3164,
+                    "endLine": 42,
+                    "endColumn": 11,
+                    "endOffset": 3294
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3164,
+                        "endLine": 42,
+                        "endColumn": 11,
+                        "endOffset": 3294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3299,
+                    "endLine": 46,
+                    "endColumn": 11,
+                    "endOffset": 3594
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3299,
+                        "endLine": 46,
+                        "endColumn": 11,
+                        "endOffset": 3594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3599,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 3894
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3599,
+                        "endLine": 50,
+                        "endColumn": 11,
+                        "endOffset": 3894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3899,
+                    "endLine": 53,
+                    "endColumn": 13,
+                    "endOffset": 4204
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3899,
+                        "endLine": 53,
+                        "endColumn": 13,
+                        "endOffset": 4204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4209,
+                    "endLine": 56,
+                    "endColumn": 11,
+                    "endOffset": 4434
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4209,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 4434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4439,
+                    "endColumn": 206,
+                    "endOffset": 4641
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4439,
+                        "endColumn": 206,
+                        "endOffset": 4641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4646,
+                    "endLine": 60,
+                    "endColumn": 13,
+                    "endOffset": 4847
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4646,
+                        "endLine": 60,
+                        "endColumn": 13,
+                        "endOffset": 4847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4852,
+                    "endLine": 63,
+                    "endColumn": 13,
+                    "endOffset": 5132
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4852,
+                        "endLine": 63,
+                        "endColumn": 13,
+                        "endOffset": 5132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5137,
+                    "endLine": 66,
+                    "endColumn": 13,
+                    "endOffset": 5457
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5137,
+                        "endLine": 66,
+                        "endColumn": 13,
+                        "endOffset": 5457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5462,
+                    "endLine": 69,
+                    "endColumn": 11,
+                    "endOffset": 5664
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5462,
+                        "endLine": 69,
+                        "endColumn": 11,
+                        "endOffset": 5664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5669,
+                    "endLine": 72,
+                    "endColumn": 13,
+                    "endOffset": 5967
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5669,
+                        "endLine": 72,
+                        "endColumn": 13,
+                        "endOffset": 5967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5972,
+                    "endLine": 75,
+                    "endColumn": 13,
+                    "endOffset": 6180
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 5972,
+                        "endLine": 75,
+                        "endColumn": 13,
+                        "endOffset": 6180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 6185,
+                    "endLine": 78,
+                    "endColumn": 13,
+                    "endOffset": 6375
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6185,
+                        "endLine": 78,
+                        "endColumn": 13,
+                        "endOffset": 6375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 6380,
+                    "endLine": 81,
+                    "endColumn": 8,
+                    "endOffset": 6538
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 6380,
+                        "endLine": 81,
+                        "endColumn": 8,
+                        "endOffset": 6538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6543,
+                    "endLine": 83,
+                    "endColumn": 8,
+                    "endOffset": 6602
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 6543,
+                        "endLine": 83,
+                        "endColumn": 8,
+                        "endOffset": 6602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6607,
+                    "endLine": 89,
+                    "endColumn": 8,
+                    "endOffset": 6849
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 6607,
+                        "endLine": 89,
+                        "endColumn": 8,
+                        "endOffset": 6849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6854,
+                    "endLine": 96,
+                    "endColumn": 8,
+                    "endOffset": 7204
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 6854,
+                        "endLine": 96,
+                        "endColumn": 8,
+                        "endOffset": 7204
+                    }
+                }
+            }
+        ]
+    }
+]

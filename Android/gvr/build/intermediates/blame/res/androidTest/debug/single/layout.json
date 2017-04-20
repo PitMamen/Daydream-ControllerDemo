@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\back_button.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_layer_with_portrait_support.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_layer.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\settings_button.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\transition_view.xml",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\layout\\transition_view.xml"
+    }
+]

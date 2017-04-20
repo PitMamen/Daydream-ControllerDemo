@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 91,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 91,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 74,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 74,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 83,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 83,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 95,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 95,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 136,
+                    "endOffset": 584
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 136,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 589,
+                    "endColumn": 114,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 114,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 97,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 97,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 73,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 73,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 95,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 95,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 97,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 97,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 97,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 97,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endColumn": 80,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 80,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 140,
+                    "endOffset": 1385
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1249,
+                        "endColumn": 140,
+                        "endOffset": 1385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1390,
+                    "endColumn": 149,
+                    "endOffset": 1535
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1390,
+                        "endColumn": 149,
+                        "endOffset": 1535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1540,
+                    "endColumn": 91,
+                    "endOffset": 1627
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 91,
+                        "endOffset": 1627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1632,
+                    "endColumn": 99,
+                    "endOffset": 1727
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 99,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1732,
+                    "endColumn": 85,
+                    "endOffset": 1813
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1732,
+                        "endColumn": 85,
+                        "endOffset": 1813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1818,
+                    "endColumn": 112,
+                    "endOffset": 1926
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1818,
+                        "endColumn": 112,
+                        "endOffset": 1926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1931,
+                    "endColumn": 142,
+                    "endOffset": 2069
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1931,
+                        "endColumn": 142,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2074,
+                    "endColumn": 96,
+                    "endOffset": 2166
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 96,
+                        "endOffset": 2166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2171,
+                    "endColumn": 71,
+                    "endOffset": 2238
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2171,
+                        "endColumn": 71,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2243,
+                    "endColumn": 81,
+                    "endOffset": 2320
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2243,
+                        "endColumn": 81,
+                        "endOffset": 2320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2325,
+                    "endColumn": 89,
+                    "endOffset": 2410
+                },
+                "from": {
+                    "file": "D:\\unity3d_5.6_workspace\\Android\\gvr\\build\\intermediates\\bundles\\debug\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2325,
+                        "endColumn": 89,
+                        "endOffset": 2410
+                    }
+                }
+            }
+        ]
+    }
+]

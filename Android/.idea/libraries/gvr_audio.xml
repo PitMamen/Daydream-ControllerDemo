@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gvr_audio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/my_DaydreamController/libs/gvr_audio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\vr_icon_front.png",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\src\\main\\res\\drawable-nodpi\\vr_icon_front.png"
+    },
+    {
+        "merged": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\vr_icon_back.png",
+        "source": "D:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\src\\main\\res\\drawable-nodpi\\vr_icon_back.png"
+    }
+]
