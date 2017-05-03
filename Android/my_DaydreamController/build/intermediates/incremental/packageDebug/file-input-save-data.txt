@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Apr 20 17:59:40 CST 2017
+#Tue May 02 18:43:01 CST 2017
 5.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\resources-debug.ap_
 42.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\assets\\debug
 32.set=ASSET
@@ -80,7 +80,7 @@
 27.set=ASSET
 60.set=NATIVE_RESOURCE
 count=74
-5.file=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\app_icon.png
+5.file=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-ldrtl-v17\\settings_button.xml
 27.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\assets\\debug
 42.file=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\assets\\debug\\bin\\Data\\67ee2e53086414fbbab2a5edbd544629
 16.set=ASSET
@@ -136,7 +136,7 @@ count=74
 37.set=ANDROID_RESOURCE
 70.set=ANDROID_RESOURCE
 28.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\assets\\debug
-6.file=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-ldrtl-v17\\settings_button.xml
+6.file=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\app_icon.png
 10.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_13d73fb924e0b4d60a4b294715fca7567f1af7be
 43.file=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\ui_layer_with_portrait_support.xml
 26.set=ASSET

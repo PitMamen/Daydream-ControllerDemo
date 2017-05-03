@@ -5,7 +5,7 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="634276587005168"
+    timestamp="753530237703727"
     token="3219106564744305771"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="634276587005168"
+        timestamp="753530237703727"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\outputs\apk\my_DaydreamController-debug.apk"

@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="880c5a235f2523775145ecf14ff87c6bb7e7c095">
+        sha1="8dd3957811375e1c8d0ce771366344113181d40d">
         <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_02fef9826fd0b5dd0932be3c7d074e8484cc32cc\classes.dex" />
     </item>
     <item
@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="53a2c5f1087311123d2dbca942f7e1598d806b21">
+        sha1="9cb58f2d85656fa306ec54675a5211a37347d9aa">
         <dex dex="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_13d73fb924e0b4d60a4b294715fca7567f1af7be\classes.dex" />
     </item>
     <item

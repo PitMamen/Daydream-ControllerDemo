@@ -37,7 +37,19 @@ import java.util.Set;
 
 public class UnityPlayerActivity extends Activity implements BluetoothLeService.Callback {
     protected UnityPlayer mUnityPlayer; // don't change the name of this variable; referenced from native code
-
+    private int time;
+    private int seq;
+    private int xOri;
+    private int yOri;
+    private int zOri;
+    private int xAcc;
+    private int yAcc;
+    private int zAcc;
+    private int xGyro;
+    private int yGyro;
+    private int zGyro;
+    private int xTouch;
+    private int yTouch;
     private BluetoothAdapter mBluetoothAdapter;
 
     private float mFloat = 0.0f;
@@ -74,6 +86,7 @@ public class UnityPlayerActivity extends Activity implements BluetoothLeService.
     };
     private byte[] mData;
     private float[] mFloatdata = new float[3];
+    private  int[] intData = new int[3];
 
     // 连接服务
     private void connectService() {
@@ -94,12 +107,14 @@ public class UnityPlayerActivity extends Activity implements BluetoothLeService.
         }
     }
 
+
     Handler handler = new Handler() {
 
         @Override
         public void handleMessage(Message msg) {
             Bundle bundle = msg.getData();
             String address = bundle.getString(Constants.EXTRA_ADDRESS);
+            Log.d("TATA"," " + msg.what);
             switch (msg.what) {
                 case BluetoothLeService.ACTION_GATT_CONNECTED:
                     mConnected = true;
@@ -117,13 +132,74 @@ public class UnityPlayerActivity extends Activity implements BluetoothLeService.
                     // 将数据显示在mDataField上
 
                     mData = bundle.getByteArray(Constants.EXTRA_DATA);
-                    for (int i = 0; i < mData.length/4; i++) {
-                        mFloat = getFloat(mData[3 + i * 4], mData[2 + i * 4], mData[1 + i * 4], mData[0 + i * 4]);
-                        mFloatdata[i] = mFloat;
-                        Log.e(TAG, "floatvalue====: " + mFloat);
-                        System.out.println(mFloatdata.length);
-                    }
-                    System.out.println(mFloatdata[0]+"  "+mFloatdata[1]+"  "+mFloatdata[2]);
+
+
+                    // Google 数据解析
+                    time = ((mData[0] & 0xFF) << 1 | (mData[1] & 0x80) >> 7);
+                    seq = (mData[1] & 0x7C) >> 2;
+
+                    //欧拉角X
+                    xOri = (mData[1] & 0x03) << 11 | (mData[2] & 0xFF) << 3 | (mData[3] & 0x80) >> 5;
+                    xOri = (xOri << 19) >> 19;
+                    intData[0] = xOri;
+
+
+                    //欧拉角Y
+                    yOri = (mData[3] & 0x1F) << 8 | (mData[4] & 0xFF);
+                    yOri = (yOri << 19) >> 19;
+
+                    intData[1] = yOri;
+                    //欧拉角Z
+                    zOri = (mData[5] & 0xFF) << 5 | (mData[6] & 0xF8) >> 3;
+                    zOri = (zOri << 19) >> 19;
+                    intData[2] = zOri;
+                    Log.d("papa", "intData.lenght===: "+intData.length+"  "+"value1=="+intData[0]+"  "+"value2=="+intData[1]+"  "+"value3=="+intData[2]);
+                    xAcc = (mData[6] & 0x07) << 10 | (mData[7] & 0xFF) << 2 | (mData[8] & 0xC0) >> 6;
+                    xAcc = (xAcc << 19) >> 19;
+
+
+                    yAcc = (mData[8] & 0x3F) << 7 | (mData[9] & 0xFE) >> 1;
+                    yAcc = (yAcc << 19) >> 19;
+
+
+                    zAcc = (mData[9] & 0x01) << 12 | (mData[10] & 0xFF) << 4 | (mData[11] & 0xF0) >> 4;
+                    zAcc = (zAcc << 19) >> 19;
+
+
+                    xGyro = ((mData[11] & 0x0F) << 9 | (mData[12] & 0xFF) << 1 | (mData[13] & 0x80) >> 7);
+                    xGyro = (xGyro << 19) >> 19;
+
+
+                    yGyro = ((mData[13] & 0x7F) << 6 | (mData[14] & 0xFC) >> 2);
+                    yGyro = (yGyro << 19) >> 19;
+
+
+                    zGyro = ((mData[14] & 0x03) << 11 | (mData[15] & 0xFF) << 3 | (mData[16] & 0xE0) >> 5);
+                    zGyro = (zGyro << 19) >> 19;
+
+                    xTouch = ((mData[16] & 0x1F) << 3 | (mData[17] & 0xE0) >> 5);
+                    yTouch = ((mData[17] & 0x1F) << 3 | (mData[18] & 0xE0) >> 5);
+//                    for (int i = 0; i < mData.length / 4; i++) {
+//                        mFloat = getFloat(mData[3 + i * 4], mData[2 + i * 4], mData[1 + i * 4], mData[0 + i * 4]);
+////                        mFloatdata[i] = mFloat;
+//
+////                        Log.e(TAG, "floatvalue====: " + mFloat);
+////                        System.out.println(mFloatdata.length);
+//                    }
+//                    System.out.println(mFloatdata[0]+"  "+mFloatdata[1]+"  "+mFloatdata[2]);
+                    Log.e("TATA", "time=="+time+
+                    "   " + "seq==" + seq +
+                    "   " + "xOri==" + xOri +
+                    "   " + "yOri==" + yOri +
+                    "   " + "zOri==" + zOri +
+                    "   " + "xAcc==" + xAcc +
+                    "   " + "yAcc==" + yAcc +
+                    "   " + "zAcc==" + zAcc +
+                    "   " + "xGyro==" + xGyro +
+                    "   " + "yGyro==" + yGyro +
+                    "   " + "zGyro==" + zGyro +
+                    "   " + "xTouch==" + xTouch +
+                    "   " + "yTouch==" + yTouch);
                     break;
             }
         }
@@ -135,6 +211,14 @@ public class UnityPlayerActivity extends Activity implements BluetoothLeService.
         }
         return null;
     }
+    public  int[] getIntData(){
+        if (intData!=null){
+            Log.d("pipi", "intData.lenght===: "+intData.length+"  "+"value1=="+intData[0]+"  "+"value2=="+intData[1]+"  "+"value3=="+intData[2]);
+            return intData;
+        }
+        return null;
+    }
+
 
     public float getFloat(byte data1, byte data2, byte data3, byte data4) {
         byte[] mdata = {data1, data2, data3, data4};
@@ -149,7 +233,6 @@ public class UnityPlayerActivity extends Activity implements BluetoothLeService.
 
         return f;
     }
-
 
 
     // Setup activity layout
@@ -254,6 +337,7 @@ public class UnityPlayerActivity extends Activity implements BluetoothLeService.
         super.onConfigurationChanged(newConfig);
         mUnityPlayer.configurationChanged(newConfig);
     }
+
 
     // Notify Unity of the focus change.
     @Override

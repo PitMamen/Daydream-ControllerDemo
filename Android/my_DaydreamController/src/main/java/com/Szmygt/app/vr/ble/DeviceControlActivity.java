@@ -58,7 +58,7 @@ public class DeviceControlActivity extends Activity implements  BluetoothLeServi
 
 	private List<String> addressList = new ArrayList<String>();
 	
-	private Set<String> rigAddressList = new HashSet<String>();  //存储蓝牙设备
+	private Set<String> rigAddressList = new HashSet<String>();  //存储连结过的蓝牙设备
 
 	private BluetoothLeService mBluetoothLeService;
 
@@ -114,14 +114,11 @@ public class DeviceControlActivity extends Activity implements  BluetoothLeServi
 				case BluetoothLeService.ACTION_DATA_AVAILABLE:
 					// 将数据显示在mDataField上
 
-					byte[] data = bundle.getByteArray(Constants.EXTRA_DATA);
+					byte[] mData = bundle.getByteArray(Constants.EXTRA_DATA);
 
 					for (int i = 0; i < mData.length/4; i++) {
-						//这里是float值               这里是bytep[]转float
-						mFloat = mBluetoothLeService.getFloat(mData[3 + i * 4], mData[2 + i * 4], mData[1 + i * 4], mData[0 + i * 4]);
 
-
-						//这里打印有三个值
+				mFloat = mBluetoothLeService.getFloat(mData[3 + i * 4], mData[2 + i * 4], mData[1 + i * 4], mData[0 + i * 4]);
 						Log.e(TAG, "floatvalue====: " + mFloat);
 					}
 //					String dataStr = Bytes2HexString(data);
@@ -242,6 +239,7 @@ public class DeviceControlActivity extends Activity implements  BluetoothLeServi
 	}
 
 	private void unRegister() {
+
 		if (isRegister) {
 			unregisterReceiver(mGattUpdateReceiver);
 			isRegister = false;

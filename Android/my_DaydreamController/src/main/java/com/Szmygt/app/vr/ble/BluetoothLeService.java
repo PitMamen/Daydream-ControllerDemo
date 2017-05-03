@@ -73,8 +73,12 @@ public class BluetoothLeService extends Service {
     public final static int ACTION_GATT_DISCONNECTED = 2;
     public final static int ACTION_GATT_SERVICES_DISCOVERED = 3;
     public final static int ACTION_DATA_AVAILABLE = 4;
+//    public final static UUID UUID_HEART_RATE_MEASUREMENT =
+//            UUID.fromString("9168ffe0-1111-6666-8888-0123456789AB");
+
     public final static UUID UUID_HEART_RATE_MEASUREMENT =
-            UUID.fromString("9168ffe0-1111-6666-8888-0123456789AB");
+            UUID.fromString("0000fe55-0000-1000-8000-00805f9b34fb");
+
 
     private BluetoothGattCharacteristic mNotifyCharacteristic;
 
@@ -150,11 +154,6 @@ public class BluetoothLeService extends Service {
             }
         }
 
-        private void removeCharacteristic(String address) {
-            mnotyGattServiceMap.remove(address);
-            writeCharacteristicMap.remove(address);
-            readCharacteristicMap.remove(address);
-        }
 
         @Override
         public void onCharacteristicChanged(BluetoothGatt gatt,
@@ -164,6 +163,13 @@ public class BluetoothLeService extends Service {
             updateTime();
             String address = gatt.getDevice().getAddress();
             broadcastUpdate(ACTION_DATA_AVAILABLE, characteristic, address);
+        }
+
+
+        private void removeCharacteristic(String address) {
+            mnotyGattServiceMap.remove(address);
+            writeCharacteristicMap.remove(address);
+            readCharacteristicMap.remove(address);
         }
     };
 
@@ -213,6 +219,8 @@ public class BluetoothLeService extends Service {
         } else {
 
             final byte[] data = characteristic.getValue();    //这里从蓝牙中获取数据
+
+
             if (data != null && data.length > 0) {
                 Log.d(TAG, "leng:" + data.length);
                 dispathData(type, data, address);
@@ -430,7 +438,7 @@ public class BluetoothLeService extends Service {
         // This is specific to Heart Rate Measurement.
         if (characteristic.getUuid().equals(UUID_HEART_RATE_MEASUREMENT)) {
             BluetoothGattDescriptor descriptor = characteristic.getDescriptor(
-                    UUID.fromString("0000ffe1-0000-1000-8000-00805f9b34fb"));
+                    UUID.fromString("00000001-1000-1000-8000-00805f9b34fb"));  //属性UUID
             descriptor.setValue(BluetoothGattDescriptor.ENABLE_NOTIFICATION_VALUE);
             for (BluetoothGatt bluetoothGatt : bluetoothGattMap.values()) {
                 bluetoothGatt.writeDescriptor(descriptor);
@@ -491,7 +499,7 @@ public class BluetoothLeService extends Service {
         // 写数据的服务和characteristic
         BluetoothGattService mnotyGattService = mnotyGattServiceMap.get(address);
         if (mnotyGattService == null) {
-            mnotyGattService = getSupportedGattServices(address, UUID.fromString("0000ffe0-0000-1000-8000-00805f9b34fb"));  //服务UUID
+            mnotyGattService = getSupportedGattServices(address, UUID.fromString("0000fe55-0000-1000-8000-00805f9b34fb"));  //服务UUID
         }
         if (mnotyGattService == null) {
             Log.d(TAG, "mnotyGattService is null," + address);
@@ -503,7 +511,7 @@ public class BluetoothLeService extends Service {
         BluetoothGattCharacteristic writeCharacteristic = writeCharacteristicMap.get(address);
         if (writeCharacteristic == null) {
             writeCharacteristic = mnotyGattService
-                    .getCharacteristic(UUID.fromString("0000ffe1-0000-1000-8000-00805f9b34fb"));  //写
+                    .getCharacteristic(UUID.fromString("00000001-1000-1000-8000-00805f9b34fb"));  //写
         }
         if (writeCharacteristic == null) {
             Log.d(TAG, "mnotyGattService is null," + address);
@@ -516,7 +524,7 @@ public class BluetoothLeService extends Service {
         BluetoothGattCharacteristic readCharacteristic = readCharacteristicMap.get(address);
         if (readCharacteristic == null) {
             readCharacteristic = mnotyGattService
-                    .getCharacteristic(UUID.fromString("0000ffe1-0000-1000-8000-00805f9b34fb"));       //读
+                    .getCharacteristic(UUID.fromString("00000001-1000-1000-8000-00805f9b34fb"));       //读
         }
         if (readCharacteristic == null) {
             Log.d(TAG, "mnotyGattService is null," + address);

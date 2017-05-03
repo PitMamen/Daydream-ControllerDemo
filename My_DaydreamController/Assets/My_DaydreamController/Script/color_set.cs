@@ -32,10 +32,11 @@ public class color_set : MonoBehaviour {
 			mesh.SetTriangles(GetRangeArray(triangles, 30, 35), 5);
 			this.gameObject.GetComponent<MeshRenderer>().materials[0].color = Color.red;
 			this.gameObject.GetComponent<MeshRenderer>().materials[1].color = Color.green;
-			this.gameObject.GetComponent<MeshRenderer>().materials[2].color = Color.white;
+	    	this.gameObject.GetComponent<MeshRenderer>().materials [2].color = Color.gray;
 			this.gameObject.GetComponent<MeshRenderer>().materials[3].color = Color.black;
 			this.gameObject.GetComponent<MeshRenderer>().materials[4].color = Color.blue;
 			this.gameObject.GetComponent<MeshRenderer>().materials[5].color = Color.yellow;
+		  
 		
 	}
 	public int[] GetRangeArray(int[] SourceArray, int StartIndex, int EndIndex)

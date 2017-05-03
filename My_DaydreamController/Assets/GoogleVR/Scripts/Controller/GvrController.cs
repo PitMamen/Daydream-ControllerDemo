@@ -127,7 +127,7 @@ public class GvrController : MonoBehaviour {
   /// X pointing to the right, Y pointing up and Z pointing forward. Therefore, to make an
   /// object in your scene have the same orientation as the controller, simply assign this
   /// quaternion to the GameObject's transform.rotation.
-  public static Quaternion Orientation {
+  public static Quaternion Orientation {       //四元数
     get {
       return instance != null ? instance.controllerState.orientation : Quaternion.identity;
     }
@@ -139,7 +139,7 @@ public class GvrController : MonoBehaviour {
   /// along the controller's body, pointing towards the front. The angular speed is given
   /// in radians per second, using the right-hand rule (positive means a right-hand rotation
   /// about the given axis).
-  public static Vector3 Gyro {
+  public static Vector3 Gyro {    //角速度
     get {
       return instance != null ? instance.controllerState.gyro : Vector3.zero;
     }
@@ -154,7 +154,7 @@ public class GvrController : MonoBehaviour {
   /// it will measure an acceleration of 9.8 m/s^2 on the Y axis. The accelerometer reading
   /// will be zero on all three axes only if the controller is in free fall, or if the user
   /// is in a zero gravity environment like a space station.
-  public static Vector3 Accel {
+  public static Vector3 Accel {   //加速度
     get {
       return instance != null ? instance.controllerState.accel : Vector3.zero;
     }
@@ -240,6 +240,7 @@ public class GvrController : MonoBehaviour {
     get {
       return instance != null ? instance.controllerState.appButtonState : false;
     }
+
   }
 
   /// If true, the app button was just pressed. This is an event flag: it will be true for
