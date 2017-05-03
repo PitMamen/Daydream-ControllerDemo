@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="25"
-    density="560dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="753530237703727"
+    timestamp="789005397248063"
     token="3219106564744305771"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="753530237703727"
+        timestamp="789005397248063"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\outputs\apk\my_DaydreamController-debug.apk"

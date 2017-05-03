@@ -83,7 +83,7 @@ public enum GvrControllerApiStatus {
 public class GvrController : MonoBehaviour {
   private static GvrController instance;
   private static IControllerProvider controllerProvider;
-
+	private static float hao=0f;
   private ControllerState controllerState = new ControllerState();
   private IEnumerator controllerUpdate;
   private WaitForEndOfFrame waitForEndOfFrame = new WaitForEndOfFrame();
@@ -129,7 +129,14 @@ public class GvrController : MonoBehaviour {
   /// quaternion to the GameObject's transform.rotation.
   public static Quaternion Orientation {       //四元数
     get {
-      return instance != null ? instance.controllerState.orientation : Quaternion.identity;
+			
+			hao += 0.1f;
+			if (hao > 1f)
+				hao = -1f;
+			Quaternion haha = new Quaternion (0, hao, 0, 0.9f);
+			Debug.Log ("papapa"+haha);
+			return haha;
+      //return instance != null ? instance.controllerState.orientation : Quaternion.identity;
     }
   }
 

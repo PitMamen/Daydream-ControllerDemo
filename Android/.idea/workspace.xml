@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="pipi" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="TATA" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
@@ -39,9 +39,16 @@
       <file leaf-file-name="BluetoothLeService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_DaydreamController/src/main/java/com/Szmygt/app/vr/ble/BluetoothLeService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="3982">
               <caret line="218" column="16" selection-start-line="218" selection-start-column="16" selection-end-line="218" selection-end-column="16" />
-              <folding />
+              <folding>
+                <element signature="e#0#22643#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#10222#10223#0" expanded="false" />
+                <element signature="e#10276#10277#0" expanded="false" />
+                <element signature="e#22484#22485#0" expanded="false" />
+                <element signature="e#22532#22533#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,12 +56,16 @@
       <file leaf-file-name="UnityPlayerActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_DaydreamController/src/main/java/com/Szmygt/app/vr/UnityPlayerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1239">
-              <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+            <state relative-caret-position="308">
+              <caret line="189" column="31" selection-start-line="189" selection-start-column="27" selection-end-line="189" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1795#1803#0" expanded="true" />
+                <element signature="e#1860#1868#0" expanded="true" />
                 <element signature="e#3475#7630#0" expanded="true" />
                 <element signature="e#7629#7630#0" expanded="true" />
+                <element signature="e#13640#14252#0" expanded="true" />
+                <element signature="e#14251#14252#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -3169,7 +3180,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -3182,23 +3193,13 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="D:/sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="device.picker.selection" value="6&amp;20e4504f&amp;0&amp;0001" />
+    <property name="device.picker.selection" value="7c79c7" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
   </component>
   <component name="RecentsManager">
@@ -3524,7 +3525,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3666,8 +3667,12 @@
           <caret line="131" column="9" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1795#1803#0" expanded="true" />
+            <element signature="e#1860#1868#0" expanded="true" />
             <element signature="e#3475#7630#0" expanded="true" />
             <element signature="e#7629#7630#0" expanded="true" />
+            <element signature="e#13640#14252#0" expanded="true" />
+            <element signature="e#14251#14252#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3688,7 +3693,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3850">
           <caret line="212" column="16" selection-start-line="212" selection-start-column="16" selection-end-line="212" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#22643#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#10222#10223#0" expanded="false" />
+            <element signature="e#10276#10277#0" expanded="false" />
+            <element signature="e#22484#22485#0" expanded="false" />
+            <element signature="e#22532#22533#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3782,8 +3794,12 @@
           <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1795#1803#0" expanded="true" />
+            <element signature="e#1860#1868#0" expanded="true" />
             <element signature="e#3475#7630#0" expanded="true" />
             <element signature="e#7629#7630#0" expanded="true" />
+            <element signature="e#13640#14252#0" expanded="true" />
+            <element signature="e#14251#14252#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3795,7 +3811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3823,7 +3838,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3850">
           <caret line="212" column="16" selection-start-line="212" selection-start-column="16" selection-end-line="212" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#22643#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#10222#10223#0" expanded="false" />
+            <element signature="e#10276#10277#0" expanded="false" />
+            <element signature="e#22484#22485#0" expanded="false" />
+            <element signature="e#22532#22533#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3917,8 +3939,12 @@
           <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1795#1803#0" expanded="true" />
+            <element signature="e#1860#1868#0" expanded="true" />
             <element signature="e#3475#7630#0" expanded="true" />
             <element signature="e#7629#7630#0" expanded="true" />
+            <element signature="e#13640#14252#0" expanded="true" />
+            <element signature="e#14251#14252#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3930,14 +3956,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_DaydreamController/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
           <caret line="60" column="62" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
@@ -3947,6 +3969,9 @@
             <element signature="e#1217#1235#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_DaydreamController/src/main/java/com/Szmygt/app/vr/common/Constants.java">
@@ -4042,7 +4067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4147,7 +4171,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="775" column="32" selection-start-line="775" selection-start-column="32" selection-end-line="775" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4155,7 +4178,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4163,7 +4185,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4176,9 +4197,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_DaydreamController/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
           <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
@@ -4189,12 +4207,14 @@
           </folding>
         </state>
       </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
     </entry>
     <entry file="file://D:/sdk/sources/android-25/android/bluetooth/BluetoothDevice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="138" column="31" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4214,20 +4234,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_DaydreamController/src/main/java/com/Szmygt/app/vr/ble/BluetoothLeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="3982">
           <caret line="218" column="16" selection-start-line="218" selection-start-column="16" selection-end-line="218" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#0#22643#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#10222#10223#0" expanded="false" />
+            <element signature="e#10276#10277#0" expanded="false" />
+            <element signature="e#22484#22485#0" expanded="false" />
+            <element signature="e#22532#22533#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_DaydreamController/src/main/java/com/Szmygt/app/vr/UnityPlayerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1239">
-          <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="189" column="31" selection-start-line="189" selection-start-column="27" selection-end-line="189" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1795#1803#0" expanded="true" />
+            <element signature="e#1860#1868#0" expanded="true" />
             <element signature="e#3475#7630#0" expanded="true" />
             <element signature="e#7629#7630#0" expanded="true" />
+            <element signature="e#13640#14252#0" expanded="true" />
+            <element signature="e#14251#14252#0" expanded="true" />
           </folding>
         </state>
       </provider>

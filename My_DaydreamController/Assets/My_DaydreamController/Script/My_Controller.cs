@@ -62,8 +62,9 @@ public class My_Controller : MonoBehaviour {
 		}
 //		print ("f1=="+intDatas[0]+"  "+"f2=="+intDatas[1]+"   "+"f3=="+intDatas[2]);
 		                                   //欧拉
-		mController.transform.rotation = Quaternion.Euler ((float)f1/2047*180,(float)f2/2047*180,(float)f3/2047*180);
-	//	Debug.Log (mCube.transform.rotation.x+"  "+transform.rotation.y+"   "+transform.rotation.z);
+//		mController.transform.rotation = Quaternion.Euler ((float)f1/2047*180,(float)f2/2047*180,(float)f3/2047*180);
+		mController.transform.Rotate (new Vector3 ((float)f1/2047*180, (float)f2/2047*180, (float)f3)/2047*180, Space.Self);
+
 //		mCube.transform.Rotate(f1,f2,f3,Space.Self);
 	}
 }
