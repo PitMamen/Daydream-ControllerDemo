@@ -130,7 +130,7 @@ public class GvrController : MonoBehaviour {
   public static Quaternion Orientation {       //四元数
     get {
 			
-			hao += 0.1f;
+			hao += 0.01f;
 			if (hao > 1f)
 				hao = -1f;
 			Quaternion haha = new Quaternion (0, hao, 0, 0.9f);

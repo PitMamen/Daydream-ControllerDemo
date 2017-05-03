@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed May 03 19:35:30 CST 2017
+#Wed May 03 20:02:18 CST 2017
 5.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\assets\\debug
 42.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\assets\\debug
 32.set=ANDROID_RESOURCE

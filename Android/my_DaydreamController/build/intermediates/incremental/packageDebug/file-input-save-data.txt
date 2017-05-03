@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed May 03 19:35:31 CST 2017
+#Wed May 03 20:02:19 CST 2017
 5.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\res\\resources-debug.ap_
 42.base=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 32.set=NATIVE_RESOURCE
