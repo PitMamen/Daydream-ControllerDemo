@@ -83,7 +83,7 @@ public enum GvrControllerApiStatus {
 public class GvrController : MonoBehaviour {
   private static GvrController instance;
   private static IControllerProvider controllerProvider;
-	private static float hao=0f;
+  private static float hao = 0f;
   private ControllerState controllerState = new ControllerState();
   private IEnumerator controllerUpdate;
   private WaitForEndOfFrame waitForEndOfFrame = new WaitForEndOfFrame();
@@ -91,6 +91,37 @@ public class GvrController : MonoBehaviour {
   /// Event handler for receiving button, track pad, and IMU updates from the controller.
   public delegate void OnControllerUpdateEvent();
   public event OnControllerUpdateEvent OnControllerUpdate;
+
+
+    AndroidJavaObject objectStore;
+	AndroidJavaObject providerObject;
+	private static float[] floatDatas;
+	private float xOri;
+	private float yOri;
+	private float zOri;
+	private float wOri;
+
+	void Start()
+	{
+		Debug.Log("Provider  start!!");
+		Debug.Log("==================");
+		objectStore = new AndroidJavaObject("com.Szmygt.app.vr.utils.ObjectStore");
+
+		providerObject = objectStore.CallStatic<AndroidJavaObject> ("get","UnityPlayerActivity");
+
+		Debug.Log ("object=="+providerObject);
+
+
+	
+
+	}
+		
+
+	void Update()
+	{
+		floatDatas = providerObject.Call<float[]> ("getfloatArray");
+		Debug.Log ("floatDatas=="+floatDatas.Length);
+	}
 
   public enum EmulatorConnectionMode {
     OFF,
@@ -130,13 +161,14 @@ public class GvrController : MonoBehaviour {
   public static Quaternion Orientation {       //四元数
     get {
 			
-			hao += 0.01f;
-			if (hao > 1f)
-				hao = -1f;
-			Quaternion haha = new Quaternion (0, hao, 0, 0.9f);
-			Debug.Log ("papapa"+haha);
-			return haha;
-      //return instance != null ? instance.controllerState.orientation : Quaternion.identity;
+//			hao += 0.01f;
+//			if (hao > 1f)
+//				hao = -1f;
+			Quaternion mQuaternion = new Quaternion (floatDatas[0],floatDatas[1],floatDatas[2],floatDatas[3]);
+			Debug.Log ("papapa="+mQuaternion);
+			return mQuaternion;
+    //
+			return instance != null ? instance.controllerState.orientation : Quaternion.identity;
     }
   }
 

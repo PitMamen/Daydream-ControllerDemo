@@ -77,7 +77,7 @@ public class BluetoothLeService extends Service {
 //            UUID.fromString("9168ffe0-1111-6666-8888-0123456789AB");
 
     public final static UUID UUID_HEART_RATE_MEASUREMENT =
-            UUID.fromString("0000fe55-0000-1000-8000-00805f9b34fb");
+            UUID.fromString("0000fe56-0000-1000-8000-00805f9b34fb");
 
 
     private BluetoothGattCharacteristic mNotifyCharacteristic;
@@ -499,7 +499,7 @@ public class BluetoothLeService extends Service {
         // 写数据的服务和characteristic
         BluetoothGattService mnotyGattService = mnotyGattServiceMap.get(address);
         if (mnotyGattService == null) {
-            mnotyGattService = getSupportedGattServices(address, UUID.fromString("0000fe55-0000-1000-8000-00805f9b34fb"));  //服务UUID
+            mnotyGattService = getSupportedGattServices(address, UUID.fromString("0000fe56-0000-1000-8000-00805f9b34fb"));  //服务UUID
         }
         if (mnotyGattService == null) {
             Log.d(TAG, "mnotyGattService is null," + address);

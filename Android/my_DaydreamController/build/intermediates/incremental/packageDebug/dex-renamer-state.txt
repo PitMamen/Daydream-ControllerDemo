@@ -1,4 +1,4 @@
-#Wed May 03 20:02:19 CST 2017
+#Thu May 04 14:19:13 CST 2017
 base.0=D\:\\unity3d_5.6_workspace\\Android\\my_DaydreamController\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_02fef9826fd0b5dd0932be3c7d074e8484cc32cc
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="22"
+    api-level="23"
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="790612914132996"
+    timestamp="856424718019645"
     token="3219106564744305771"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="253" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="18" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
         location="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\outputs\apk\my_DaydreamController-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="790612914132996"
+        timestamp="856424718019645"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\unity3d_5.6_workspace\Android\my_DaydreamController\build\outputs\apk\my_DaydreamController-debug.apk"
